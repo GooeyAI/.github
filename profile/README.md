@@ -6,4 +6,4 @@ Where **Shared AI Workflows** Create **Measurable Value**
 
 Gooey.AI is the low-code orchestration platform with [discoverable workflows](https://gooey.ai/explore)  & unified billing to the GenAI universe. Built for developers who code fast and teams that prove ROI. 
 
-[🏠 Homepage](https://gooey.ai) • [👾 Explore Workflows](https://gooey.ai/explore) • [🤖 API Docs](https://api.gooey.ai/docs) • [🛟 Discord](https://discord.com/invite/7C84UyzVDg) • [💃🏾 Start Building](https://gooey.ai/account)
+🏠 [Homepage](https://gooey.ai) 👾 [Explore Workflows](https://gooey.ai/explore) 🤖 [API Docs](https://api.gooey.ai/docs) 🛟 [Discord](https://discord.com/invite/7C84UyzVDg) • 💃🏾 [Start Building](https://gooey.ai/account)
