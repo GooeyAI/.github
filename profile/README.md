@@ -44,7 +44,6 @@ Try our [20+ GenAI Workflows](https://gooey.ai/explore/) for all your work and b
 ## [BOOK A DEMO](https://www.help.gooey.ai/contact#book-demo)
 
 ## Contributing
-For those who'd like to contribute code, see our [Contribution Guide](/CONTRIBUTING.md). At the same time, please consider supporting Gooey.AI by sharing it on social media and at events and conferences.
 
 ### Contributors
 <a href="https://github.com/GooeyAI/gooey-gpu/graphs/contributors">
@@ -53,9 +52,8 @@ For those who'd like to contribute code, see our [Contribution Guide](/CONTRIBUT
 
 Made with [contrib.rocks](https://contrib.rocks).
 
-
 ### Contributing Guide
-Help with translations
+Coming soon! 
 
 #### Star History
 
