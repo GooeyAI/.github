@@ -4,10 +4,14 @@
   />
 </h3>
 <p align="center">
-
-  🏠 [Homepage](https://gooey.ai) &nbsp; 👾 [Explore Workflows](https://gooey.ai/explore) &nbsp; 📚 [Docs](https://gooey.ai/docs) &nbsp; 🤖&nbsp;[API](https://api.gooey.ai/docs) &nbsp; 🛟&nbsp;[Discord](https://discord.com/invite/7C84UyzVDg) &nbsp; 💃🏾&nbsp;[Start Building](https://gooey.ai/account)
-
+  <a href="https://gooey.ai">🏠 Homepage</a> ·
+  <a href="https://gooey.ai/explore">👾 Explore Workflows</a> ·
+  <a href="https://gooey.ai/docs">📚 Docs</a> ·
+  <a href="https://gooey.ai/api">🤖 API</a> ·
+  <a href="https://gooey.ai/discord">🛟 Discord</a> ·
+  <a href="https://gooey.ai/account">💃🏾 Start Building</a>
 </p>
+
 <div>
   <p align="center">
     <a
@@ -26,9 +30,9 @@
   </p>
 </div>
 
-<h3 align="center">
+<h2 align="center">
   <p>Where Shared AI Workflows Create Measurable Value</p>
-</h3>
+</h2>
 
 
 # Gooey.AI
@@ -36,3 +40,23 @@
 Gooey.AI is the low-code orchestration platform with discoverable workflows & unified billing to the GenAI universe. Built for developers who code fast and teams that prove ROI.
 
 Try our [20+ GenAI Workflows](https://gooey.ai/explore/) for all your work and business needs. 
+
+## [BOOK A DEMO](https://www.help.gooey.ai/contact#book-demo)
+
+## Contributing
+For those who'd like to contribute code, see our [Contribution Guide](/CONTRIBUTING.md). At the same time, please consider supporting Gooey.AI by sharing it on social media and at events and conferences.
+
+### Contributors
+<a href="https://github.com/GooeyAI/gooey-gpu/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=GooeyAI/gooey-gpu" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
+
+### Contributing Guide
+Help with translations
+
+#### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=GooeyAI/gooey-gpu&type=Date)](https://star-history.com/#GooeyAI/gooey-gpu&Date)
