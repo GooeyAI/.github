@@ -41,10 +41,15 @@
 We offer:
 
 🤖 **Best of private & open-source AI** 
+
 🧾 **Unified Per-API Call Billing** 
+
 🌼 **Low-code AI Recipes**
+
 🏇 **Fast, reliable RAG as a Service** 
+
 🔎 **Built-in Search SERP**
+
 
 ![Gooey.AI Explainer Video](https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/90992f52-2d13-11ef-8611-02420a0001e4/Screen%20Shot%202024-06-17%20at%206.38.45%20PM.png)
 
