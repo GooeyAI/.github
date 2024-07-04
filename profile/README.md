@@ -67,7 +67,7 @@ We offer:
 | **Run every model from single billing account** | ✅                     | ❌         | ❌                  | ❌                  | ❌             | ❌        |
 | **Best Open LLMs (LLaMA, Mistral)**             | ✅                     | ✅          | ✅                  | ❌                  | ❌             | ❌        |
 | **Best Private LLMs (OpenAI, Claude, Gemini)**  | ✅                     | ✅          | ✅                  | OpenAI-only        | OpenAI only   | ✅        |
-| **RAG Engine in Cloud**                         | ✅                     | Local only | Coming Soon        | ✅                  | ❌             | ❌        |
+| **RAG Engine in Cloud**                         | ✅                     | Local only | ❌        | ✅                  | ❌             | ❌        |
 | **WhatsApp Business Solution Provider**         | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ❌        |
 | **Embeddable web widget**                       | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
 | **Customizable Analytics Dashboards**           | ✅                     | ✅          | ✅                  | ✅                  | ✅             | ❌        |
