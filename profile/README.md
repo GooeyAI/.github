@@ -64,14 +64,14 @@ We offer:
 |                                             | **Gooey**                 | **Langchain**  | **Dify. AI**           | **OpenAI GPT Builder** | **CustomGPT**     | **HeyGen**   |
 | **Community Discovery & Fork**                  | ✅                     | ❌          | ❌                  | ✅                  | ❌             | ❌        |
 | **Programming Approach**                        | API + No Code         | Code Only  | API + App-oriented | API-oriented       | API + No Code | App only |
-| **Run every model from single billing account** | ✅                     | ❌         | ❌                  | ❌                  | ❌             | ❌        |
-| **Best Open LLMs (LLaMA, Mistral)**             | ✅                     | ✅          | ✅                  | ❌                  | ❌             | ❌        |
-| **Best Private LLMs (OpenAI, Claude, Gemini)**  | ✅                     | ✅          | ✅                  | OpenAI-only        | OpenAI only   | ✅        |
-| **RAG Engine in Cloud**                         | ✅                     | Local only | ❌        | ✅                  | ❌             | ❌        |
+| **[Run every model from single billing account](https://gooey.ai/account/)** | ✅                     | ❌         | ❌                  | ❌                  | ❌             | ❌        |
+| **[Best Open LLMs (LLaMA, Mistral)](https://gooey.ai/llm)**             | ✅                     | ✅          | ✅                  | ❌                  | ❌             | ❌        |
+| **[Best Private LLMs (OpenAI, Claude, Gemini)](https://gooey.ai/llm)**  | ✅                     | ✅          | ✅                  | OpenAI-only        | OpenAI only   | ✅        |
+| **[RAG Engine in Cloud](https://gooey.ai/doc-search/)**                         | ✅                     | Local only | ❌        | ✅                  | ❌             | ❌        |
 | **WhatsApp Business Solution Provider**         | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ❌        |
-| **Embeddable web widget**                       | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
-| **Customizable Analytics Dashboards**           | ✅                     | ✅          | ✅                  | ✅                  | ✅             | ❌        |
-| **Low-resource language support (ASR, TTS)**    | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ✅        |
+| **[Embeddable web widget](https://gooey.ai/chat/genstevejobs-EBW/)**                       | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
+| **[Customizable Analytics Dashboards](https://gooey.ai/copilot/gen-stevejobs-n14mflxr19ss/integrations/EBW/stats/)**           | ✅                     | ✅          | ✅                  | ✅                  | ✅             | ❌        |
+| **[Low-resource language support (ASR, TTS)](https://gooey.ai/speech)**    | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ✅        |
 | **Observability**                               | ✅                     | ✅          | ✅                  | ❌                  | ✅             | ❌        |
 | **Enterprise Features (SSO/Access control)**    | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
 | **Local Deployment**                            | Coming Soon           | ✅          | ✅                  | ❌                  | ❌             | ❌        |
