@@ -80,11 +80,11 @@ We offer:
 
 - [gooey web-widget](https://github.com/GooeyAI/gooey-web-widget): A clean, self-hostable web widget for Gooey.AI Copilots, with streaming support for every major LLM, speech recognition, and Text-to-Speech covering 1000+ languages, photo uploads, feedback, and analytics. Fork for customized branding and functionality (or use our hosted version available under Copilot Integrations).
 
-- [python-SDK](https://github.com/GooeyAI/python-sdk): Gooey.AI Python SDK. A Python wrapper over all the Gooey.AI APIs, a low-code orchestration platform with discoverable workflows & unified billing for all of the GenAI universe.
+<!--- - [python-SDK](https://github.com/GooeyAI/python-sdk): Gooey.AI Python SDK. A Python wrapper over all the Gooey.AI APIs, a low-code orchestration platform with discoverable workflows & unified billing for all of the GenAI universe. -->
 
 - [gooey-gpu](https://github.com/GooeyAI/gooey-gpu): Quick and easy setup for several popular GenAI models on a Kubernetes cluster with GPU support.
 
-- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI recipe or self-host gooey. 
+<!--- - [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI recipe or self-host gooey. -->
 
 ## 🕵️ Learn more
 
