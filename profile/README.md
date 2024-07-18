@@ -84,7 +84,7 @@ We offer:
 
 - [gooey-gpu](https://github.com/GooeyAI/gooey-gpu): Quick and easy setup for several popular GenAI models on a Kubernetes cluster with GPU support.
 
-<!--- - [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI recipe or self-host gooey. -->
+- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI recipe or self-host gooey.
 
 ## 🕵️ Learn more
 
