@@ -86,6 +86,8 @@ We offer:
 
 - [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI workflow or self-host gooey.
 
+- [gooey-gui](https://github.com/GooeyAI/gooey-gui) Write production-grade web apps in Python
+
 ## 🕵️ Learn more
 
 | Section | Description |
