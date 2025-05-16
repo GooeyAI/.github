@@ -6,9 +6,7 @@
   <a href="https://gooey.ai">🏠 Homepage</a> ·
   <a href="https://gooey.ai/explore">👾 Explore Workflows</a> ·
   <a href="https://gooey.ai/docs">📚 Docs</a> ·
-  <a href="https://gooey.ai/api">🤖 API</a> ·
-  <a href="https://gooey.ai/discord">🛟 Discord</a> ·
-  <a href="https://gooey.ai/account">💃🏾 Start Building</a>
+  <a href="https://gooey.ai/api">🤖 API</a>
 </p>
 
 <div>
