@@ -37,7 +37,7 @@ Know more about our vision on interoperable AI APIs and workflows here: [🤝 AI
 
 - [🌐 Embeddable Web Widget Made With React
 ](https://blog.gooey.ai/embeddable-web-widget-made-with-react)
-- [🏃‍♀️ Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)]
+- [🏃‍♀️ Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)
 - [🏎️ Global Language Understanding for AIs
 ](https://blog.gooey.ai/global-language-understanding-for-ais)
 - [Read more...](https://blog.gooey.ai/)
