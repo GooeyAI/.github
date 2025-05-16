@@ -29,70 +29,33 @@
  </p>
 </div>
 
-<h2 align="center">
-  <p>💪 Stand on the Shoulders of Every AI Giant</p>
-</h2>
+[Gooey.AI](http://gooey.ai/) is the low-code AI orchestration platform for developers who code fast, teams that prove ROI & organizations that change the world.
 
-[Gooey.AI](http://gooey.ai/) is the low-code orchestration platform with **discoverable workflows** & **unified billing to all of GenAI universe.** 
-
-**Gooey.AI is built for developers who code fast and teams that prove ROI.**
+Know more about our vision on interoperable AI APIs and workflows here: [🤝 AI Workflow Standards](https://blog.gooey.ai/workflow-standards).
 
 ## 🐙 Our Orchestration Capabilities 
-We offer:
 
-🤖 **Best of private & open-source AI** 
+- 🧠 **Private, Open & Custom LLMs**: OpenAI, Google, Anthropic, Mistral, Meta, Deepseek models + custom LLMs (eg. SEALION, AfroLLAMA, Sarvam) for any language.
+- 🌍 **Global Language Support**: Top speech recognition, text-to-speech and machine translation models run "hot" & fast.
+- 🛡️ **Respects PII & No Retention**: Use functions to hash private user data and store it securely only on your own servers.
+- 📱 **Deploy where your people are**: Voice, WhatsApp, Slack, Facebook, inside your app, the web or SMS.
+- ⚡ **Cheaper, Better & Faster Every Day**: Evaluate any workflow or model change on your specific use case.
+- 🕒 **Usability Test in Minutes**: Deploy to customers and analyze their behavior, feedback and retention.
 
-🧾 **Unified Per-API Call Billing** 
+## 🧑‍💻 Hear from our Engineers:
 
-🌼 **Low-code AI Workflows**
-
-🏇 **Fast, reliable RAG as a Service** 
-
-🔎 **Built-in Search SERP**
-
-
-![Gooey.AI Explainer Video](https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/90992f52-2d13-11ef-8611-02420a0001e4/Screen%20Shot%202024-06-17%20at%206.38.45%20PM.png)
-
-### Learn more about our Orchestration here:
-
-![Gooey.AI Explainer Video](https://cdn.loom.com/sessions/thumbnails/dbf28cd1616c411a9d6631be5eb5fcc1-with-play.gif)
-
-## 👯‍♂️ Feature Comparison
-
-|                                             | Orchestration Engines |            |                    | Chat Bot Builders  |               | Lipsync  |
-| ------------------------------------------- | --------------------- | ---------- | ------------------ | ------------------ | ------------- | -------- |
-|                                             | **Gooey**                 | **Langchain**  | **Dify. AI**           | **OpenAI GPT Builder** | **CustomGPT**     | **HeyGen**   |
-| **Community Discovery & Fork**                  | ✅                     | ❌          | ❌                  | ✅                  | ❌             | ❌        |
-| **Programming Approach**                        | API + No Code         | Code Only  | API + App-oriented | API-oriented       | API + No Code | App only |
-| **[Run every model from single billing account](https://gooey.ai/account/)** | ✅                     | ❌         | ❌                  | ❌                  | ❌             | ❌        |
-| **[Best Open LLMs (LLaMA, Mistral)](https://gooey.ai/llm)**             | ✅                     | ✅          | ✅                  | ❌                  | ❌             | ❌        |
-| **[Best Private LLMs (OpenAI, Claude, Gemini)](https://gooey.ai/llm)**  | ✅                     | ✅          | ✅                  | OpenAI-only        | OpenAI only   | ✅        |
-| **[RAG Engine in Cloud](https://gooey.ai/doc-search/)**                         | ✅                     | Local only | ❌        | ✅                  | ❌             | ❌        |
-| **WhatsApp Business Solution Provider**         | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ❌        |
-| **[Embeddable web widget](https://gooey.ai/chat/genstevejobs-EBW/)**                       | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
-| **[Customizable Analytics Dashboards](https://gooey.ai/copilot/gen-stevejobs-n14mflxr19ss/integrations/EBW/stats/)**           | ✅                     | ✅          | ✅                  | ✅                  | ✅             | ❌        |
-| **[Low-resource language support (ASR, TTS)](https://gooey.ai/speech)**    | ✅                     | ❌          | ❌                  | ❌                  | ❌             | ✅        |
-| **Observability**                               | ✅                     | ✅          | ✅                  | ❌                  | ✅             | ❌        |
-| **Enterprise Features (SSO/Access control)**    | ✅                     | ❌          | ✅                  | ❌                  | ✅             | ❌        |
-| **Local Deployment**                            | Coming Soon           | ✅          | ✅                  | ❌                  | ❌             | ❌        |
+- [🌐 Embeddable Web Widget Made With React
+](https://blog.gooey.ai/embeddable-web-widget-made-with-react)
+- [🏃‍♀️ Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)]
+- [🏎️ Global Language Understanding for AIs
+](https://blog.gooey.ai/global-language-understanding-for-ais)
+- [Read more...](https://blog.gooey.ai/)
 
 ## 🤿 Dive into our repos! 
 
-- [gooey web-widget](https://github.com/GooeyAI/gooey-web-widget): A clean, self-hostable web widget for Gooey.AI Copilots, with streaming support for every major LLM, speech recognition, and Text-to-Speech covering 1000+ languages, photo uploads, feedback, and analytics. Fork for customized branding and functionality (or use our hosted version available under Copilot Integrations).
-
 <!--- - [python-SDK](https://github.com/GooeyAI/python-sdk): Gooey.AI Python SDK. A Python wrapper over all the Gooey.AI APIs, a low-code orchestration platform with discoverable workflows & unified billing for all of the GenAI universe. -->
 
+- [gooey web-widget](https://github.com/GooeyAI/gooey-web-widget): A clean, self-hostable web widget for Gooey.AI Copilots, with streaming support for every major LLM, speech recognition, and Text-to-Speech covering 1000+ languages, photo uploads, feedback, and analytics. Fork for customized branding and functionality (or use our hosted version available under Copilot Integrations).
 - [gooey-gpu](https://github.com/GooeyAI/gooey-gpu): Quick and easy setup for several popular GenAI models on a Kubernetes cluster with GPU support.
-
 - [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI workflow or self-host gooey.
-
-- [gooey-gui](https://github.com/GooeyAI/gooey-gui) Write production-grade web apps in Python
-
-## 🕵️ Learn more
-
-| Section | Description |
-|-|-|
-| 🕺 [Explore our workflows](https://gooey.ai/explore)|Try out all our amazing workflows on Gooey.AI |
-| 🤝 [Book a Demo](https://www.help.gooey.ai/contact#book-demo) | Book a demo with us!  |
-| 🗃️ [Gooey Documentation](https://docs.gooey.ai/) | Guides to all our workflows |
-|🗞️ [Latest updates from Gooey.AI](https://blog.gooey.ai/) | Head to our blog for all the latest on our product! |
+- [gooey-gui](https://github.com/GooeyAI/gooey-gui): Write production-grade web apps in Python.
