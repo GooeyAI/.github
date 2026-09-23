@@ -67,7 +67,7 @@ Our purpose: **to improve productivity, prosperity and the world's SDGs via AI**
 - [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
 - [gooey-gui](https://github.com/GooeyAI/gooey-gui): A Python UI framework alternative to Streamlit & Dash with no websockets — write production-grade web apps in Python
 - [gooey-static-pages](https://github.com/GooeyAI/gooey-static-pages): Static pages that power gooey.ai
-- [ecocost](https://github.com/GooeyAI/ecocost): The open-source code behind [gooey.ai/ecocost](https://gooey.ai/ecocost) — measure the energy and carbon cost of AI models
+- [ecocost](https://github.com/GooeyAI/ecocost): Measure the energy and carbon cost of AI models
 
 ## 📜 Open Source & Digital Public Good
 
