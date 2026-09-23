@@ -1,8 +1,5 @@
-[![Gooey.AI QR Codes](https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/11713794-74f7-11ee-badc-02420a0001ca/Screen%20Shot%202023-10-27%20at%2011.30.43%20AM.png.png)](https://gooey.ai/explore)
+![Image](https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/9b370ca4-b777-11f1-9714-02420a000119/Document.png)
 
-# Gooey.AI
-Where **Shared AI Workflows** Create **Measurable Value**
+[Gooey.AI](https://gooey.ai/) is the low-code AI orchestration platform for global impact. We help impact organizations, foundations and universities turn the latest private + open-source AI models — OpenAI, Google, Anthropic, Mistral, Qwen, DeepSeek and more — into shared, human-readable **AI workflows**: recipes that any team can run, evaluate, fork and ship to the field.
 
-Gooey.AI is the low-code orchestration platform with [discoverable workflows](https://gooey.ai/explore)  & unified billing to the GenAI universe. Built for developers who code fast and teams that prove ROI. 
-
-[🏠 Homepage](https://gooey.ai) • [👾 Explore Workflows](https://gooey.ai/explore) • [🤖 API Docs](https://api.gooey.ai/docs) • [🛟 Discord](https://discord.com/invite/7C84UyzVDg) • [💃🏾 Start Building](https://gooey.ai/account)
+Our purpose: **to improve productivity, prosperity and the world's SDGs via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
