@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/cdc58fe0-2da1-11ef-84df-02420a0001f4/githubbanner.png"
+  <img src="https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/9b370ca4-b777-11f1-9714-02420a000119/Document.png"
   />
 </h3>
 <p align="center">
@@ -20,32 +20,57 @@
  </p>
 </div>
 
-[Gooey.AI](http://gooey.ai/) is the low-code AI orchestration platform for developers who code fast, teams that prove ROI & organizations that change the world.
+**[Gooey.AI](https://gooey.ai)** is the low-code AI orchestration platform for global impact. We help impact organizations, foundations and universities turn the latest private + open-source AI models — OpenAI, Google, Anthropic, Mistral, Qwen, DeepSeek and more — into shared, human-readable **AI workflows**: recipes that any team can run, evaluate, fork and ship to the field.
 
-Know more about our vision on interoperable AI APIs and workflows here: [🤝 AI Workflow Standards](https://blog.gooey.ai/workflow-standards).
+Our purpose: **to improve productivity, prosperity and the world's SDGs via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
 
-## 🐙 Our Orchestration Capabilities 
+## 🌍 Who builds with us
 
-- 🧠 **Private, Open & Custom LLMs**: OpenAI, Google, Anthropic, Mistral, Meta, Deepseek models + custom LLMs (eg. SEALION, AfroLLAMA, Sarvam) for any language.
-- 🌍 **Global Language Support**: Top speech recognition, text-to-speech and machine translation models run "hot" & fast.
-- 🛡️ **Respects PII & No Retention**: Use functions to hash private user data and store it securely only on your own servers.
-- 📱 **Deploy where your people are**: Voice, WhatsApp, Slack, Facebook, inside your app, the web or SMS.
-- ⚡ **Cheaper, Better & Faster Every Day**: Evaluate any workflow or model change on your specific use case.
-- 🕒 **Usability Test in Minutes**: Deploy to customers and analyze their behavior, feedback and retention.
+- 🌾 **Global impact orgs & funders** — Gates Foundation, UN, Rockefeller Foundation, Wellcome Trust, City of Seattle, Opportunity.org and DigiFarm use Gooey to put AI in the hands of frontline workers
+- 🎓 **Universities** — profs, IT staff and students run and remix AI workflows in class, with credit-based billing
+- 🏛️ **Cultural institutions & consultants** — finding product-market fit with transparent, reusable AI
 
-## 🧑‍💻 Hear from our Engineers:
+## ⚙️ Our Orchestration Capabilities
 
-- [🌐 Embeddable Web Widget Made With React
-](https://blog.gooey.ai/embeddable-web-widget-made-with-react)
-- [🏃‍♀️ Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)
-- [🏎️ Global Language Understanding for AIs
-](https://blog.gooey.ai/global-language-understanding-for-ais)
+- 🤝 **Private, Open & Custom LLMs**: OpenAI, Google, Anthropic, Mistral, Meta, DeepSeek models + custom LLMs (e.g. SEAILION, AfroLLaMA, Sarvam) for any language
+- 🌍 **Global Language Support**: top speech recognition, text-to-speech and machine translation models run "hot" & fast — evaluated across 1,500+ languages
+- 🧮 **Golden Evals & M&E**: measure any workflow or model change on your specific use case, with built-in impact, usage and NPS dashboards
+- 🕵️ **Radical Transparency**: every prompt, model, RAG database and cost is visible — no black boxes
+- 📲 **Deploy where your people are**: Voice, WhatsApp, Slack, Facebook, Telegram, inside your app, the web or SMS
+- 🛡️ **Compliant, Sovereign & Private**: HIPAA, GDPR & SOC 2 Type II — with in-country, on-prem and air-gapped deployment options
+- 🔌 **No Vendor Lock-in**: hot-swap to whichever model is faster, smarter, cheaper or more sovereign this month
+
+## 🔬 Research, Evals & Tools
+
+- 🌏 **[Language Evaluation](https://gooey.ai/language-evaluation)** — benchmarking how well the latest AI models understand the world's languages
+- 📚 **[Research](https://gooey.ai/research)** — our published research on AI for global impact
+- 🛡️ **[Sovereignty](https://gooey.ai/sovereignty)** — run AI in-country, on-prem or air-gapped, on your terms
+- 🌱 **[EcoCost](https://gooey.ai/ecocost)** — measure the energy and carbon cost of AI models · [read more here](https://github.com/GooeyAI/ecocost)
+
+## 🏆 Workflows in the field
+
+- 🌾 **Farmer.Chat** — multilingual agri-advisor for smallholder farmers, demo'd at the UN General Assembly Science Panel
+- ⚡ **AI Workflow Accelerator** — with the Rockefeller Foundation; live deployments at the UN Office of Immigration, City of Seattle's non-emergency helpline and Teach For India
+- 🧠 **Mental Health Accelerator** — alongside Google for the Wellcome Trust
+- 📈 **1.5M+ users** have run AI workflows on Gooey.AI · **2,200+ paying clients** (as of March 2026)
+
+## 🎙️ Hear from our Engineers:
+
+- [🗣️ Talk Over the Bot: Steering an LLM Mid-Reply](https://devxpy.com/blog/steering-llms-mid-conversation) — by **Dev Aggarwal**, founder-engineer
+- [📱 Embeddable Web Widget Made With React](https://blog.gooey.ai/embeddable-web-widget-made-with-react)
+- [🃏 Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)
+- [🌏 Global Language Understanding for AIs](https://blog.gooey.ai/global-language-understanding-for-ais)
 - [Read more...](https://blog.gooey.ai/)
 
-## 🤿 Dive into our repos! 
+## 🚀 Dive into our repos
 
-- [gooey-gui](https://github.com/GooeyAI/gooey-gui): Write production-grade web apps in Python.
-- [gooey-web-widget](https://github.com/GooeyAI/gooey-web-widget): A clean, self-hostable, and embeddable web widget for Gooey.AI Copilots.
-- [gooey-gpu](https://github.com/GooeyAI/gooey-gpu): Quick and easy setup for several popular GenAI models on a Kubernetes cluster with GPU support.
-- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI server and API platform. Fork if you want to add an entirely new AI workflow or self-host gooey.
-- [python-sdk](https://github.com/GooeyAI/python-sdk): [COMING SOON] Gooey.AI Python SDK. A Python wrapper over all the Gooey.AI APIs, a low-code orchestration platform with discoverable workflows & unified billing for all of the GenAI universe.
+- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
+- [gooey-gui](https://github.com/GooeyAI/gooey-gui): A Python UI framework alternative to Streamlit & Dash with no websockets — write production-grade web apps in Python
+- [gooey-static-pages](https://github.com/GooeyAI/gooey-static-pages): Static pages that power gooey.ai
+- [ecocost](https://github.com/GooeyAI/ecocost): The open-source code behind [gooey.ai/ecocost](https://gooey.ai/ecocost) — measure the energy and carbon cost of AI models
+
+## 📜 Open Source & Digital Public Good
+
+Everything we build is **Apache 2.0 licensed**, and Gooey.AI is **in the certification process to become a Digital Public Good** with the [Digital Public Goods Alliance](https://digitalpublicgoods.net) — because AI orchestration should be a commodity that serves everyone, not a moat.
+
+Know more about our vision on interoperable AI APIs and workflows here: [🧬 AI Workflow Standards](https://blog.gooey.ai/workflow-standards).
