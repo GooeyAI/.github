@@ -24,6 +24,12 @@
 
 Our purpose: **to improve productivity, prosperity and the world's SDGs via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
 
+## 🚀 Dive into our repos
+
+- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
+- [gooey-static-pages](https://github.com/GooeyAI/gooey-static-pages): Static pages that power gooey.ai
+- [ecocost](https://github.com/GooeyAI/ecocost): Measure the energy and carbon cost of AI models
+
 ## 🌍 Who builds with us
 
 - 🌾 **Global impact orgs & funders** — Gates Foundation, UN, Rockefeller Foundation, Wellcome Trust, City of Seattle, Opportunity.org and DigiFarm use Gooey to put AI in the hands of frontline workers
@@ -62,11 +68,6 @@ Our purpose: **to improve productivity, prosperity and the world's SDGs via AI**
 - [🌏 Global Language Understanding for AIs](https://blog.gooey.ai/global-language-understanding-for-ais)
 - [Read more...](https://blog.gooey.ai/)
 
-## 🚀 Dive into our repos
-
-- [gooey-server](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
-- [gooey-static-pages](https://github.com/GooeyAI/gooey-static-pages): Static pages that power gooey.ai
-- [ecocost](https://github.com/GooeyAI/ecocost): Measure the energy and carbon cost of AI models
 
 ## 📜 Open Source & Digital Public Good
 
