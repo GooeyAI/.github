@@ -65,9 +65,6 @@ Our purpose: **to improve productivity, prosperity and the world's SDGs via AI**
 - [🗣️ Talk Over the Bot: Steering an LLM Mid-Reply](https://devxpy.com/blog/steering-llms-mid-conversation) — by **Dev Aggarwal**, founder-engineer
 - [📱 Embeddable Web Widget Made With React](https://blog.gooey.ai/embeddable-web-widget-made-with-react)
 - [🃏 Handling schema migrations on a live database, at scale](https://blog.gooey.ai/handling-schema-migrations-on-a-live-database-at-scale)
-- [🌏 Global Language Understanding for AIs](https://blog.gooey.ai/global-language-understanding-for-ais)
-- [Read more...](https://blog.gooey.ai/)
-
 
 ## 📜 Open Source & Digital Public Good
 
