@@ -29,7 +29,7 @@ Our purpose: **to improve productivity, prosperity and the UNs Sustainable Devel
 - [gooeyai](https://github.com/GooeyAI/GooeyAI): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
 - [ecocost](https://github.com/GooeyAI/ecocost): Measure the energy and carbon cost of AI models
 - [gooey-gpu](https://github.com/gooeyai/gooey-gpu): Efficiently run multiple models on your own GPU rig.
-- [gooey-gpu](https://github.com/GooeyAI/gooey-web-widget): Self-host the our [agent](https://gooey.ai/agent) chat widget in your own app. 
+- [gooey-web-widget](https://github.com/GooeyAI/gooey-web-widget): Self-host the our [agent](https://gooey.ai/agent) chat widget in your own app. 
 
 ## 🌍 Who builds with us
 
