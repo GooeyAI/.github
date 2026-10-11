@@ -22,13 +22,14 @@
 
 **[Gooey.AI](https://gooey.ai)** is the low-code AI orchestration platform for global impact. We help impact organizations, foundations and universities turn the latest private + open-source AI models — OpenAI, Google, Anthropic, Mistral, Qwen, DeepSeek and more — into shared, human-readable **AI workflows**: recipes that any team can run, evaluate, fork and ship to the field.
 
-Our purpose: **to improve productivity, prosperity and the world's SDGs via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
+Our purpose: **to improve productivity, prosperity and the UNs Sustainable Development Goals via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
 
 ## 🚀 Dive into our repos
 
-- [gooeyai](https://github.com/GooeyAI/gooey-server): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
-- [gooey-static-pages](https://github.com/GooeyAI/gooey-static-pages): Static pages that power gooey.ai
+- [gooeyai](https://github.com/GooeyAI/GooeyAI): The entire Gooey.AI orchestration platform and API — Django + FastAPI, Celery workers and Vesper RAG search. Fork it to add a new AI workflow or self-host Gooey
 - [ecocost](https://github.com/GooeyAI/ecocost): Measure the energy and carbon cost of AI models
+- [gooey-gpu](https://github.com/gooeyai/gooey-gpu): Efficiently run multiple models on your own GPU rig.
+- [gooey-gpu](https://github.com/GooeyAI/gooey-web-widget): Self-host the our [agent](https://gooey.ai/agent) chat widget in your own app. 
 
 ## 🌍 Who builds with us
 
