@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/open-ai-infrastructure-banner.png" width="100%" alt="Modular open AI infrastructure connecting to local servers, independent deployments, and cloud systems" />
+</p>
+
 <h3 align="center">
   <img src="https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/9b370ca4-b777-11f1-9714-02420a000119/Document.png"
   />
@@ -56,9 +60,9 @@ Our purpose: **to improve productivity, prosperity and the UNs Sustainable Devel
 
 ## 🏆 Workflows in the field
 
-- 🌾 **Farmer.Chat** — multilingual agri-advisor for smallholder farmers, demo'd at the UN General Assembly Science Panel
-- ⚡ **AI Workflow Accelerator** — with the Rockefeller Foundation; live deployments at the UN Office of Immigration, City of Seattle's non-emergency helpline and Teach For India
-- 🧠 **Mental Health Accelerator** — alongside Google for the Wellcome Trust
+- 🌾 **[Farmer.Chat](https://gooey.ai/farmer-chat)** — multilingual agri-advisor for smallholder farmers, demo'd at the UN General Assembly Science Panel
+- ⚡ **[AI Workflow Accelerator](https://blog.gooey.ai/gooey.ai-workflow-accelerator-supported-by-the-rockefeller-foundation)** — with the Rockefeller Foundation; live deployments at the UN Office of Immigration, City of Seattle's non-emergency helpline and Teach For India
+- 🧠 **[Mental Health Accelerator](https://gooey.ai/wellcome-trust-mexa)** — alongside Google for the Wellcome Trust
 - 📈 **1.5M+ users** have run AI workflows on Gooey.AI · **2,200+ paying clients** (as of March 2026)
 
 ## 🎙️ Hear from our Engineers:
