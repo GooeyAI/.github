@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/open-ai-infrastructure-banner.png" width="100%" alt="Modular open AI infrastructure connecting to local servers, independent deployments, and cloud systems" />
-</p>
+</p> -->
 
 <h3 align="center">
   <img src="https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/9b370ca4-b777-11f1-9714-02420a000119/Document.png"
