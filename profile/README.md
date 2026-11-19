@@ -12,6 +12,11 @@
   <a href="https://gooey.ai/docs">📚 Docs</a> ·
   <a href="https://gooey.ai/api">🤖 API</a>
 </p>
+<p align="center">
+  <a href="https://www.digitalpublicgoods.net/r/gooeyai">
+    <img src="https://img.shields.io/badge/Verified-DPG%20(Since%202026)-3333AB?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzMiIHZpZXdCb3g9IjAgMCAzMSAzMyIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE0LjIwMDggMjEuMzY3OEwxMC4xNzM2IDE4LjAxMjRMMTEuNTIxOSAxNi40MDAzTDEzLjk5MjggMTguNDU5TDE5LjYyNjkgMTIuMjExMUwyMS4xOTA5IDEzLjYxNkwxNC4yMDA4IDIxLjM2NzhaTTI0LjYyNDEgOS4zNTEyN0wyNC44MDcxIDMuMDcyOTdMMTguODgxIDUuMTg2NjJMMTUuMzMxNCAtMi4zMzA4MmUtMDVMMTEuNzgyMSA1LjE4NjYyTDUuODU2MDEgMy4wNzI5N0w2LjAzOTA2IDkuMzUxMjdMMCAxMS4xMTc3TDMuODQ1MjEgMTYuMDg5NUwwIDIxLjA2MTJMNi4wMzkwNiAyMi44Mjc3TDUuODU2MDEgMjkuMTA2TDExLjc4MjEgMjYuOTkyM0wxNS4zMzE0IDMyLjE3OUwxOC44ODEgMjYuOTkyM0wyNC44MDcxIDI5LjEwNkwyNC42MjQxIDIyLjgyNzdMMzAuNjYzMSAyMS4wNjEyTDI2LjgxNzYgMTYuMDg5NUwzMC42NjMxIDExLjExNzdMMjQuNjI0MSA5LjM1MTI3WiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==" alt="Verified digital public good since 2026" />
+  </a>
+</p>
 
 <div>
   <p align="center">
@@ -27,6 +32,8 @@
 **[Gooey.AI](https://gooey.ai)** is the low-code AI orchestration platform for global impact. We help impact organizations, foundations and universities turn the latest private + open-source AI models — OpenAI, Google, Anthropic, Mistral, Qwen, DeepSeek and more — into shared, human-readable **AI workflows**: recipes that any team can run, evaluate, fork and ship to the field.
 
 Our purpose: **to improve productivity, prosperity and the UNs Sustainable Development Goals via AI** — by abstracting, democratizing and spreading measurably valuable AI workflows among impact-focused organizations.
+
+Gooey.AI is a [verified digital public good](https://www.digitalpublicgoods.net/r/gooeyai), recognized by the **Digital Public Goods Alliance** and listed in its registry.
 
 ## 🚀 Dive into our repos
 
@@ -73,6 +80,15 @@ Our purpose: **to improve productivity, prosperity and the UNs Sustainable Devel
 
 ## 📜 Open Source & Digital Public Good
 
-Everything we build is **Apache 2.0 licensed**, and Gooey.AI is **in the certification process to become a Digital Public Good** with the [Digital Public Goods Alliance](https://digitalpublicgoods.net) — because AI orchestration should be a commodity that serves everyone, not a moat.
+Everything we build is **Apache 2.0 licensed**, and Gooey.AI is a [verified digital public good](https://www.digitalpublicgoods.net/r/gooeyai), recognized by the Digital Public Goods Alliance and listed in its registry — because AI orchestration should be a commodity that serves everyone, not a moat.
 
 Know more about our vision on interoperable AI APIs and workflows here: [🧬 AI Workflow Standards](https://blog.gooey.ai/workflow-standards).
+
+<p align="center">
+  <a href="https://www.digitalpublicgoods.net/r/gooeyai">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DPGAlliance/dpg-resources/main/docs/assets/dpg-badge/dpg-badge-w.png" />
+      <img src="https://raw.githubusercontent.com/DPGAlliance/dpg-resources/main/docs/assets/dpg-badge/dpg-badge.png" width="100" alt="Digital Public Goods badge" />
+    </picture>
+  </a>
+</p>
